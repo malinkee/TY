@@ -1,13 +1,27 @@
 #bustitle {
-    color: #e6512c;
+    color: palevioletred;
 }
 
 #home-link {
     font-style: normal;
-    color: #0d6efd;
+    color: teal;
     text-decoration: none;
 }
 
 .card-link {
     text-decoration: none;
+    color: teal;
+}
+
+.favteas {
+    color: palevioletred;
+    font-style: italic;
+}
+
+.container {
+    font-family: "Courier New", Courier, monospace, sans-serif;
+}
+
+#reglink {
+    color: teal;
 }
